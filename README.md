@@ -1,1 +1,1 @@
-# NextJs-Fetch
+# NextJS + Express boilerplate
